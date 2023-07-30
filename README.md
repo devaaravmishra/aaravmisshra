@@ -10,13 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/aaaravv" target="blank"><img src="https://img.shields.io/twitter/follow/aaaravv?logo=twitter&style=for-the-badge" alt="aaaravv" /></a> </p>
 
--   🔭 I’m currently working on [**bhumijaindustries.com**](https://bhumijaindustries.com)
+With a passion for innovation and a love for crafting impeccable code, I consider myself as your go-to developer for turning dreams into reality. Dive into the world of cutting-edge technology and witness the magic of a true full-stack wizard. Whether it's front-end finesse, back-end brilliance, or database sorcery, leaving no stone unturned in creating solutions that leave users awestruck.
+
+Get ready to embark on a journey of digital marvels. Welcome to [Aarav's](https://github.com/aaaravv) GitHub wonderland! 🚀🌟
+
+-   🔭 I’m currently learning 🌱 spring boot and next.js
 
 -   💬 Ask me about **anything from underlying skill set.**
 
 -   📫 How to reach me **aaravmishra619@gmail.com**
-
--   📄 Know about my experiences visit [here.](https://docs.google.com/document/d/1zTlwN77dU9ZWUyDKY9CfQfyGT_w_bKYU/edit?usp=sharing&ouid=108496666114108755014&rtpof=true&sd=true)
 
 -   ⚡ Fun fact **I use Arch btw! ;)**
 
